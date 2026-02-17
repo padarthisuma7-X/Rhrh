@@ -5,15 +5,15 @@
   Hi, I'm <strong>Vengababu</strong>
 </h1>
 
-<h3>Engineering Student | Developer | Robotics & Embedded Systems</h3>
+<h3>Engineering Student | Full-Stack & Robotics Developer</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm an engineering student working on practical projects that combine
-    embedded systems, robotics, and application development.
-    I focus on building things that actually function outside simulations.
+    I'm an engineering student who works on full-stack applications,
+    embedded systems, and robotics projects.
+    I like building things that actually run, connect, and respond.
   </p>
 
   <p>
@@ -23,7 +23,7 @@
   </p>
 
 <h3>🌐 GitHub</h3>
-  
+
 <p align="left">
   <a href="https://github.com/vengababu-X">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
@@ -52,7 +52,7 @@
 <td width="50%" align="center">
 <h3>📚 Frameworks & Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flutter" />
 <br/>
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </td>
@@ -60,13 +60,21 @@
 
 <tr>
 <td width="50%" align="center">
-<h3>🤖 Robotics & Simulation</h3>
+<h3>🗄️ Databases</h3>
 
-<img src="https://img.shields.io/badge/Gazebo-1A1A1A?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 <br/><br/>
 </td>
 
 <td width="50%" align="center">
+<h3>🤖 Robotics & Simulation</h3>
+
+<img src="https://img.shields.io/badge/Gazebo-1A1A1A?style=for-the-badge" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 <h3>🧰 Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=arduino,esp32,androidstudio,git,github,vscode,linux" />
