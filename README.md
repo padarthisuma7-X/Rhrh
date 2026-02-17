@@ -111,13 +111,35 @@ Progress doesn’t announce itself.
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vengababu-X&theme=dark&no-frame=true&row=1"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=vengababu-X&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&theme=dark&hide_border=true"
   />
-</div>
+  <br/><br/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vengababu-X&theme=dark&hide_border=true"
+  />
+</p>
+
+---
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&theme=dark&hide_border=true"
+  />
+</p>
 
 ---
 
@@ -132,10 +154,24 @@ Embedded and real-time connected devices
 
 ---
 
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/vengababu-X">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
+
+---
+
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="#">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
 </p>
