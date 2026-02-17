@@ -8,8 +8,8 @@
 <h3>Engineering Student | Full-Stack & Robotics Developer</h3>
 
 <p>
-  I believe in learning by building.
-  Small steps, real projects, steady progress.
+  Learning by building.  
+  Consistency over shortcuts.
 </p>
 
 <div align="left">
@@ -91,10 +91,17 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/vengababu-X/vengababu-X/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
   <img src="https://streak-stats.demolab.com?user=vengababu-X&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
