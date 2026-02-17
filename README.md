@@ -5,25 +5,25 @@
   Hi, I'm <strong>Vengababu</strong>
 </h1>
 
-<h3>Engineering Student | Developer | Hardware & Software Builder</h3>
+<h3>Engineering Student | Developer | Robotics & Systems Builder</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm an engineering student who enjoys building practical tech solutions.
-    From embedded systems to full-stack projects, I experiment, prototype,
-    and ship ideas into working products.
+    I'm an engineering student focused on building real-world systems that combine
+    software, hardware, and robotics. I like things that actually move, respond,
+    and work outside PowerPoint.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🎓_Engineering_Student-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/⚡_Building_in_Public-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚙️_Robotics_&_Systems-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Connect With Me</h3>
+<h3>🌐 Connect</h3>
   
 <p align="left">
   <a href="https://github.com/vengababu-X">
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=vengababu-X&style=flat-square&color=blue" alt="Profile Visit"/>
+<img src="https://komarev.com/ghpvc/?username=vengababu-X&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -46,33 +46,32 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,rust" />
 <br/><br/>
-
 </td>
 
 <td width="50%" align="center">
 <h3>📚 Frameworks & Libraries</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,django" />
-
+<br/>
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<h3>🗄️ Databases</h3>
+<h3>🤖 Robotics & Simulation</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<img src="https://img.shields.io/badge/Gazebo-1A1A1A?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS_2_Navigation-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 <br/><br/>
-
 </td>
 
 <td width="50%" align="center">
 <h3>🧰 Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,androidstudio" />
-
 </td>
 </tr>
 </table>
@@ -82,28 +81,42 @@
 
 ## 🚀 What I Build
 
-- ⚙️ Embedded Systems Projects (ESP32 / Arduino)
-- 🌐 Full-Stack Web Applications
-- 📱 Mobile Apps
-- 🧠 Experimental Tech Concepts
-- 🛡️ Smart Safety & Automation Devices
+- 🤖 Robotics projects using ROS 2 & Gazebo  
+- ⚙️ Embedded systems (ESP32 / Arduino)  
+- 🌐 Full-stack applications  
+- 📱 Android & cross-platform apps  
+- 🛡️ Smart safety & automation devices  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vengababu-X&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=vengababu-X&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+## 🎯 Current Focus
+
+- ROS 2 based robotic systems  
+- Simulation-first development using Gazebo  
+- Hardware–software co-design  
+- Scalable backend services  
+
+---
+
+<p align="center">
+  <strong>Build things that move. Build things that last.</strong>
+</p></div>
 
 ---
 
