@@ -7,13 +7,18 @@
 
 <h3>Engineering Student | Full-Stack & Robotics Developer</h3>
 
+<p>
+  I believe in learning by building.
+  Small steps, real projects, steady progress.
+</p>
+
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm an engineering student who works on full-stack applications,
+    I'm an engineering student working on full-stack applications,
     embedded systems, and robotics projects.
-    I like building things that actually run, connect, and respond.
+    I focus on building things that actually run, connect, and respond.
   </p>
 
   <p>
@@ -62,8 +67,9 @@
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<br/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </td>
 
 <td width="50%" align="center">
