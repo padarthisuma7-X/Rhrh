@@ -18,7 +18,7 @@ src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-
   src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm an engineering student working on full-stack applications,
+    I’m an engineering student working on full-stack applications,
     embedded systems, and robotics projects.
     I focus on building things that actually run, connect, and respond.
   </p>
@@ -47,13 +47,13 @@ alt="Profile Visits"/>
 
 ## 🧠 What Motivates Me
 
-- Building real systems instead of just reading documentation  
-- Seeing software interact with hardware and the real world  
-- Long-term consistency over short-term motivation  
-- Improving one small system at a time  
+- Real systems > theoretical perfection  
+- Software that talks to hardware  
+- Small daily progress over hype  
+- Discipline beats motivation  
 
-Skill compounds quietly.  
-Progress doesn’t announce itself.
+I don’t chase shortcuts.  
+I build, break, fix, repeat.
 
 ---
 
@@ -62,17 +62,17 @@ Progress doesn’t announce itself.
 <p align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>💻 Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js"/>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter"/><br/>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gazebo-1A1A1A?style=for-the-badge"/>
 
@@ -80,22 +80,33 @@ Progress doesn’t announce itself.
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>🗄️ Backend & Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/><br/><br/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase"/>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=arduino,esp32,androidstudio,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=arduino,esp32,androidstudio,vscode,git,github,linux"/>
 
 </td>
 </tr>
 </table>
+</p>
+
+---
+
+## 🗣️ Communication Languages
+
+<p align="center">
+Hindi • English • Marathi • Konkani • Telugu
+</p>
+
+<p align="center">
+Comfortable with technical discussions, documentation, and teamwork.
 </p>
 
 ---
@@ -105,7 +116,7 @@ Progress doesn’t announce itself.
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/vengababu-X/vengababu-X/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
+    alt="Contribution Snake Animation"
   />
 </p>
 
@@ -114,7 +125,9 @@ Progress doesn’t announce itself.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vengababu-X&theme=dark&no-frame=true&row=1"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=vengababu-X&theme=dark&no-frame=true&row=1"
+  />
 </p>
 
 ---
@@ -133,23 +146,13 @@ Progress doesn’t announce itself.
 
 ---
 
-## 🧠 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
-
----
-
 ## 🚀 Current Focus
 
 <p align="center">
 ROS2-based robotics systems<br/>
-Next.js + Node.js full-stack applications<br/>
+Next.js + Node.js full-stack development<br/>
 Supabase, Firebase & MongoDB backends<br/>
-Embedded and real-time connected devices
+Embedded & real-time connected devices
 </p>
 
 ---
@@ -159,12 +162,6 @@ Embedded and real-time connected devices
 <p align="center">
   <a href="https://github.com/vengababu-X">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
