@@ -11,19 +11,18 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm an engineering student focused on building real-world systems that combine
-    software, hardware, and robotics. I like things that actually move, respond,
-    and work outside PowerPoint.
+    I'm an engineering student who builds practical systems that combine
+    hardware, software, and robotics. I focus on projects that work in
+    the real world, not just on slides.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🎓_Engineering_Student-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/⚙️_Robotics_&_Systems-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Connect</h3>
+<h3>🌐 GitHub</h3>
   
 <p align="left">
   <a href="https://github.com/vengababu-X">
@@ -53,7 +52,7 @@
 <td width="50%" align="center">
 <h3>📚 Frameworks & Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,django" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter" />
 <br/>
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </td>
@@ -64,14 +63,13 @@
 <h3>🤖 Robotics & Simulation</h3>
 
 <img src="https://img.shields.io/badge/Gazebo-1A1A1A?style=for-the-badge&logo=robotframework&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS_2_Navigation-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 <br/><br/>
 </td>
 
 <td width="50%" align="center">
 <h3>🧰 Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,androidstudio,esp32" />
 </td>
 </tr>
 </table>
@@ -81,11 +79,11 @@
 
 ## 🚀 What I Build
 
-- 🤖 Robotics projects using ROS 2 & Gazebo  
-- ⚙️ Embedded systems (ESP32 / Arduino)  
-- 🌐 Full-stack applications  
-- 📱 Android & cross-platform apps  
-- 🛡️ Smart safety & automation devices  
+- Robotics projects using ROS 2 and Gazebo  
+- Embedded systems with ESP32 and Arduino  
+- Full-stack web applications  
+- Android and cross-platform apps  
+- Smart safety and automation devices  
 
 ---
 
@@ -105,29 +103,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- ROS 2 based robotic systems  
-- Simulation-first development using Gazebo  
-- Hardware–software co-design  
-- Scalable backend services  
-
----
-
 <p align="center">
-  <strong>Build things that move. Build things that last.</strong>
-</p></div>
-
----
-
-## 💡 Current Focus
-
-- Building real-world hardware + software integrated systems  
-- Learning scalable backend systems  
-- Improving system design & architecture  
-
----
-
-<p align="center">
-  <strong>Consistency > Motivation</strong>
+  <strong>Build. Test. Improve.</strong>
 </p>
